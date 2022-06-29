@@ -30,11 +30,19 @@ int main()
     printf("Ingresa el radio de la base: ");
     scanf("%f",&radio);
     printf("Ingresa la altura del cilindro: ");
-    scanf("%f",&radio);
+    scanf("%f",&altura);
     area=pi*(radio*radio);
     volumen=area*altura;
-    printf("El area del cilindro es: %f\n",area);
-    printf("El volumen del cilindro es: %f\n",volumen);
+    printf("El area del cilindro es: %f unidades cuadradas\n",area);
+    printf("El volumen del cilindro es: %f unidades cubicas\n",volumen);
+
+    float f,c;
+    float constantCovertion= 5/9;
+    printf("Hola vamos a transformar grados Fahrenheit a grados Celsius\n");
+    printf("Ingresa los grados Fahrenheit: ");
+    scanf("%f",&f);
+    c=(f-32)*constantCovertion;
+    printf("La temperatura en grados Celsius es: %f",c);
 
 
 
