@@ -8,7 +8,7 @@ int main()
     /*
     Operadores de incremento
 
-    Primero da el valor de a y despues opera
+    Primero da el valor de a y despues operacion
     a++ -> a=a+1
     a-- -> a=a-1
 
