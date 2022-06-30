@@ -45,6 +45,5 @@ int main()
     printf("La temperatura en grados Celsius es: %f",c);
 
 
-
     return 0;
 }
