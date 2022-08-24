@@ -30,3 +30,10 @@ OperadoresRelacionalesLogicos/OperadoresRelacionalesLogicos.depend
 OperadoresRelacionalesLogicos/OperadoresRelacionalesLogicos.layout
 OperadoresRelacionalesLogicos/bin/*
 OperadoresRelacionalesLogicos/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de condicional switch
+condicionalswitch/condicionalswitch.cbp
+condicionalswitch/condicionalswitch.depend
+condicionalswitch/condicionalswitch.layout
+condicionalswitch/bin/*
+condicionalswitch/obj/*
