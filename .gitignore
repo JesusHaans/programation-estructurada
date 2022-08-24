@@ -1,12 +1,32 @@
+#  archivos de configuración de codeblocks para el proyecto de mi primer variable
 MiPrimeraVariable/MiPrimeraVariable.cbp
 MiPrimeraVariable/MiPrimeraVariable.layout
 MiPrimeraVariable/bin/*
 MiPrimeraVariable/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de operadores aritmeticos
 OperadoresAritmeticos/OperadoresAritmeticos.cbp
 OperadoresAritmeticos/OperadoresAritmeticos.layout
 OperadoresAritmeticos/bin/*
 OperadoresAritmeticos/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de operadores de asignacion
 OperadoresAsignacion/OperadoresAsignacion.cbp
 OperadoresAsignacion/OperadoresAsignacion.depend
+OperadoresAsignacion/OperadoresAsignacion.layout
 OperadoresAsignacion/bin/*
 OperadoresAsignacion/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de condicionales
+Condicionales/Condicionales.cbp
+Condicionales/Condicionales.depend
+Condicionales/Condicionales.layout
+Condicionales/bin/*
+Condicionales/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de operadores relacionales logicos
+OperadoresRelacionalesLogicos/OperadoresRelacionalesLogicos.cbp
+OperadoresRelacionalesLogicos/OperadoresRelacionalesLogicos.depend
+OperadoresRelacionalesLogicos/OperadoresRelacionalesLogicos.layout
+OperadoresRelacionalesLogicos/bin/*
+OperadoresRelacionalesLogicos/obj/*
