@@ -37,3 +37,10 @@ condicionalswitch/condicionalswitch.depend
 condicionalswitch/condicionalswitch.layout
 condicionalswitch/bin/*
 condicionalswitch/obj/*
+
+# archivos de configuracion de codeblocks para el proyecto de condicional switch
+ciclo_while/ciclo_while.cbp
+ciclo_while/ciclo_while.depend
+ciclo_while/ciclo_while.layout
+ciclo_while/bin/*
+ciclo_while/obj/*
